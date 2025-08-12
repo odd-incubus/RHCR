@@ -824,4 +824,3 @@ bool BasicSystem::load_records()
 	myfile.close();
 	return true;
 }
-
